@@ -12,6 +12,25 @@
 
 <br />
 
+# FE 기술 스택
+<div>
+  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Tailwind.css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=black"></a>
+  <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"></a>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Figma-7E4DD2?style=for-the-badge&logo=figma&logoColor=white"/></a>
+</div>
+
+<br />
+
 # 핵심 기능
 
 ## 0. msw API Mocking 라이브러리를 사용하여 mock data를 생성해 프론트엔드 기능 개발
